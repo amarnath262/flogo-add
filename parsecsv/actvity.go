@@ -8,8 +8,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/amarnath262/testcsv/core/activity"
-	"github.com/amarnath262/testcsv/logger"
+	"github.com/amarnath262/flogo-add/core/activity"
+	"github.com/amarnath262/flogo-add/logger"
 )
 
 // ActivityLog is the default logger for the Log Activity
