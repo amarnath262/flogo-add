@@ -6,8 +6,8 @@ import (
 	"io/ioutil"
 	"testing"
 
-	"github.com/amarnath262/testcsv/action/flow/test"
-	"github.com/amarnath262/testcsv/core/activity"
+	"github.com/amarnath262/flogo-add/action/flow/test"
+	"github.com/amarnath262/flogo-add/core/activity"
 )
 
 var activityMetadata *activity.Metadata
